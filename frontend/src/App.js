@@ -39,19 +39,19 @@ const router = createBrowserRouter(
           element: <HomePage />,
         },
         {
-          path: '/events',
+          path: 'events',
           element: <EventsPage />,
         },
         {
-          path: '/events/:eventId',
+          path: 'events/:eventId',
           element: <EventDetailPage />,
         },
         {
-          path: '/events/new',
+          path: 'events/new',
           element: <NewEventPage />,
         },
         {
-          path: '/events/:eventId/edit',
+          path: 'events/:eventId/edit',
           element: <EditEventPage />,
         },
       ],
