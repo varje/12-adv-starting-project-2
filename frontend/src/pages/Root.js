@@ -6,7 +6,6 @@ function RootLayout() {
   return (
     <>
       <MainNavigation />
-      <EventsNavigation />
       <main>
         <Outlet />
       </main>
