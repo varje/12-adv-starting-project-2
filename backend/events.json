@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Test with wiki","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Centaurea_cyanus_flowers.jpg/250px-Centaurea_cyanus_flowers.jpg","date":"2025-08-06","description":"test","id":"47dacca9-3323-46a0-86cb-3489e777ee76"},{"title":"test","image":"https://unsplash.com/photos/people-enjoy-a-meal-together-at-a-diner-m-wQzbj6jxY","date":"2025-08-06","description":"test","id":"210df5a5-24a9-455e-b42d-3d7678858134"},{"title":"test 4","image":"https://unsplash.com/photos/people-enjoy-a-meal-together-at-a-diner-m-wQzbj6jxY","date":"2025-08-07","description":"testing image","id":"e5409305-88cd-4831-af0a-62141db583ab"},{"title":"New event 3","image":"https://unsplash.com/photos/a-view-of-rolling-hills-with-trees-in-the-foreground-cs-fGIqlKQs","date":"2025-08-13","description":"test","id":"a9c283e7-3bae-4f33-90cd-8b14f0a3db30"},{"title":"aa","image":"https://www.google.com/search?sca_esv=3d9aa816210a3b66&sxsrf=AE3TifNgFXjnkzG2TCPWd_WMiPQmnddvRg:1754490716032&udm=2&fbs=AIIjpHxvE00HZXh3AMnfI1-yHeY7dCuwreChkwtpdxN6d624MC-W_XAQZkaAVOo9GPXKzCA6FWSbI82C9BjHSAZ5cAeu2_qlAvuAWHjAtwQfaHHVefgBPTeKwTBFbh4fsciBwX4RKMqQ9BQIzVMwWp1_SCzH8IBzHcmBnArjvNbo3gVk14trv1FAtIveRVR5rEh9JfGsoAtyBLbqtOGpyUIpJ2G_KwWyCg&q=landscape&sa=X&ved=2ahUKEwjf-I-fs_aOAxXVHXcKHW1RALgQtKgLegQIDhAB&biw=1920&bih=958&dpr=1#vhid=i68D5IsriIqK6M&vssid=mosaic","date":"2025-08-06","description":"aa","id":"26124599-d668-4f2e-b1cc-3505c8156eac"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
