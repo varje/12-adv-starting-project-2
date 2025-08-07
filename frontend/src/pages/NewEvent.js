@@ -10,6 +10,7 @@ function NewEventPage() {
 }
 
 export default NewEventPage;
+
 export async function action({ request, params }) {
   const data = await request.formData();
   const eventData = {
@@ -26,8 +27,12 @@ export async function action({ request, params }) {
     body: JSON.stringify(eventData),
   });
 
+  if (response.status === 422) {
+    return response;
+  }
+
   if (!response.ok) {
-     throw new Response(JSON.stringify({ message: 'Could not save evemt.' }), {
+    throw new Response(JSON.stringify({ message: 'Could not save evemt.' }), {
       status: 500,
     });
   }
