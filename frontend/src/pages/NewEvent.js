@@ -4,7 +4,7 @@ import EventForm from '../components/EventForm';
 function NewEventPage() {
   return (
     <>
-      return <EventForm />
+      <EventForm />
     </>
   );
 }
